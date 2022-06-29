@@ -7,9 +7,8 @@
     ```
     python3 madlibs.py
     ```
-- Guess the number: Computer
-
-    A simple guessing game where user guesses a computer randomized number selection within a specified boundary
+- Guess the number game
+    A simple guessing game in which either the computer or the user must try to guess the number the for the counterpoint
     ```
-    python3 guess-the-number-computer.py
+    python3 guess-the-number-game.py
     ```
