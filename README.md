@@ -11,5 +11,5 @@
     
     A simple guessing game in which either the computer or the user must try to guess the number the for the counterpoint
     ```
-    python3 guess-the-number-game.py
+    python3 guess-the-number.py
     ```
