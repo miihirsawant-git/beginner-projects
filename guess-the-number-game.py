@@ -41,3 +41,4 @@ elif choice == 2:
     computer_guess(100)
 else:
     print(f'Incorrect entry')
+    
