@@ -13,3 +13,9 @@
     ```
     python3 guess-the-number.py
     ```
+- Rock Paper Scissor Game
+
+    A simple hand game with computer where rock beats scissors, scissors beats paper and paper beats rock
+    ```
+    python3 rock-paper-scissor.py
+    ```
